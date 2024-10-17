@@ -1,5 +1,5 @@
-from domain.queue import Queue
-from domain.process import Process
+from queue import Queue
+from process import Process
 
 class MLQSchedulerService:
     def __init__(self):

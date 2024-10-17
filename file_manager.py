@@ -1,4 +1,4 @@
-from domain.process import Process
+from process import Process
 
 class FileManager:
     @staticmethod

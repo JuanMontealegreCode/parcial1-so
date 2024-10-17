@@ -1,5 +1,5 @@
-from services.scheduler_service import MLQSchedulerService
-from persistence.file_manager import FileManager
+from scheduler_service import MLQSchedulerService
+from file_manager import FileManager
 
 if __name__ == "__main__":
     # Leer los datos de entrada
